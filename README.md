@@ -1,15 +1,14 @@
-<h2><b>🍕&nbsp;&nbsp;О проекте:</b></h2>
+<h2><b>🍕&nbsp;&nbsp;About the Project:</b></h2>
+<b>An application for food ordering :) <a href="https://ya-bao-frontend.vercel.app/">demo</a></b>
 
- <b>Приложение для заказа еды :)  **<a href="https://ya-bao-frontend.vercel.app/">demo</a>**</b>
-  <h3>Основные функции:</h3>
-  
-   - <b>Профиль (регистрация, авторизация, смена данных, везде присутствует валидация)</b>
+  <h3>Main Features:</h3>
+<b>Profile (registration, authentication, data change, validation everywhere)</b>
 
-   - <b>Корзина (добавление, удаление, изменение кол-ва)</b>
+<b>Cart (adding, removing, quantity modification)</b>
 
-   - <b>Оформление заказа</b>
+<b>Checkout</b>
 
-   - <b>Получение продуктов (фильтрация) </b>
+<b>Product retrieval (filtering)</b>
 
 <h2><b>🛠&nbsp;&nbsp;stack:</b></h2>
 
